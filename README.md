@@ -1,5 +1,5 @@
 # ml_wine_quality
-Wine Quality Assessment Using Deep Learning
+Vinho Verde Wine Quality Assessment Using Deep Learning
 
 ![](data/winery.jpg)
 
