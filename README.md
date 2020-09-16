@@ -10,3 +10,4 @@ We decided to test whether AI can predict the quality of the wine based on physi
 Data source reference:
 
 Cortez, Paulo & Cerdeira, António & Almeida, Fernando & Matos, Telmo & Reis, José. (2009). Modeling wine preferences by data mining from physicochemical properties. Decision Support Systems. 47. 547-553. 10.1016/j.dss.2009.05.016. 
+
